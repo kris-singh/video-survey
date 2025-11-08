@@ -151,7 +151,8 @@
     </div>
 
     <div class="question">
-      <p><strong>3. Motion consistency:</strong> Which video has smoother motion?</p>
+      <p><strong>3. Motion consistency:</strong> Which video has smoother motion? Note: It is OK to prefer the video with less impressive quality as long as the motion looks
+        better.</p>
       <label><input type="radio" name="q3" value="Video 1" required> Video 1</label>
       <label><input type="radio" name="q3" value="Video 2"> Video 2</label>
     </div>
@@ -167,6 +168,22 @@
 </div>
 
 <script type="module">
+  // --- Simple access protection ---
+  const allowedToken = "vidjam_2025"; // ✅ choose your secret token
+  const params = new URLSearchParams(window.location.search);
+  const token = params.get("t");
+
+  if (token !== allowedToken) {
+    document.body.innerHTML = `
+      <div style="text-align:center; margin-top:120px;">
+        <h2>🔒 Access Restricted</h2>
+        <p>This survey is private. Please use the correct access link provided by the organizers.</p>
+      </div>
+    `;
+    throw new Error("Unauthorized access — missing or invalid token.");
+  }
+
+  // --- Firebase imports and survey logic start below ---
   import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.1/firebase-app.js";
   import { getFirestore, collection, addDoc, query, where, getDocs } from "https://www.gstatic.com/firebasejs/11.0.1/firebase-firestore.js";
 
@@ -205,10 +222,17 @@
   let randomizedPairs = [];
   let responses = JSON.parse(localStorage.getItem("videoSurveyResponses") || "[]");
 
-  // --- Helpers ---
-  function decodeUrl(maybeBase64) {
-    try { return atob(maybeBase64); } catch { return maybeBase64; }
+  // --- Helper to decode Base64 URLs safely ---
+  function decodeUrl(str) {
+    try {
+      // Decode base64 -> normal URL string
+      return decodeURIComponent(escape(atob(str)));
+    } catch (e) {
+      console.error("Failed to decode URL:", str, e);
+      return str;
+    }
   }
+
 
   function shuffle(arr) {
     for (let i = arr.length - 1; i > 0; i--) {
