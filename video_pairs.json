@@ -1,0 +1,898 @@
+[
+  {
+    "id": "pair_1",
+    "filename": "vid_0_A_man_juggling_with_three_red_balls_in_a_city_stre_42.mp4",
+    "caption": "A man juggling with three red balls in a city street.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8wX0FfbWFuX2p1Z2dsaW5nX3dpdGhfdGhyZWVfcmVkX2JhbGxzX2luX2FfY2l0eV9zdHJlXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8wX0FfbWFuX2p1Z2dsaW5nX3dpdGhfdGhyZWVfcmVkX2JhbGxzX2luX2FfY2l0eV9zdHJlXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_2",
+    "filename": "vid_100_A_man_jumping_rope_on_a_dark_stage._His_movements__42.mp4",
+    "caption": "A man jumping rope on a dark stage. His movements are fluid and energetic. Two spotlights shine down from above him.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMDBfQV9tYW5fanVtcGluZ19yb3BlX29uX2FfZGFya19zdGFnZS5fSGlzX21vdmVtZW50c19fNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMDBfQV9tYW5fanVtcGluZ19yb3BlX29uX2FfZGFya19zdGFnZS5fSGlzX21vdmVtZW50c19fNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_3",
+    "filename": "vid_101_A_woman_twirls_a_hula_hoop_around_her_waist_in_a_p_42.mp4",
+    "caption": "A woman twirls a hula hoop around her waist in a park during sunset. The woman, with medium-length curly black hair and a yellow tank top, stands on a grassy field surrounded by trees. As the hoop revolves around her waist, she shifts her hips rhythmically to keep it moving. The golden sunlight casts a long shadow behind her.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMDFfQV93b21hbl90d2lybHNfYV9odWxhX2hvb3BfYXJvdW5kX2hlcl93YWlzdF9pbl9hX3BfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMDFfQV93b21hbl90d2lybHNfYV9odWxhX2hvb3BfYXJvdW5kX2hlcl93YWlzdF9pbl9hX3BfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_4",
+    "filename": "vid_102_A_man_exercises_on_a_leg_press_machine_at_a_gym._42.mp4",
+    "caption": "A man exercises on a leg press machine at a gym.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMDJfQV9tYW5fZXhlcmNpc2VzX29uX2FfbGVnX3ByZXNzX21hY2hpbmVfYXRfYV9neW0uXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMDJfQV9tYW5fZXhlcmNpc2VzX29uX2FfbGVnX3ByZXNzX21hY2hpbmVfYXRfYV9neW0uXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_5",
+    "filename": "vid_103_A_young_woman_enjoys_a_cup_of_coffee_on_a_balcony._42.mp4",
+    "caption": "A young woman enjoys a cup of coffee on a balcony.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMDNfQV95b3VuZ193b21hbl9lbmpveXNfYV9jdXBfb2ZfY29mZmVlX29uX2FfYmFsY29ueS5fNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMDNfQV95b3VuZ193b21hbl9lbmpveXNfYV9jdXBfb2ZfY29mZmVlX29uX2FfYmFsY29ueS5fNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_6",
+    "filename": "vid_104_A_man_energetically_bangs_on_a_drum_kit._He_holds__42.mp4",
+    "caption": "A man energetically bangs on a drum kit. He holds drumsticks in both hands and bashes on the drum kit with the drumsticks.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMDRfQV9tYW5fZW5lcmdldGljYWxseV9iYW5nc19vbl9hX2RydW1fa2l0Ll9IZV9ob2xkc19fNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMDRfQV9tYW5fZW5lcmdldGljYWxseV9iYW5nc19vbl9hX2RydW1fa2l0Ll9IZV9ob2xkc19fNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_7",
+    "filename": "vid_105_A_woman_performs_high_knees_on_a_beach._42.mp4",
+    "caption": "A woman performs high knees on a beach.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMDVfQV93b21hbl9wZXJmb3Jtc19oaWdoX2tuZWVzX29uX2FfYmVhY2guXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMDVfQV93b21hbl9wZXJmb3Jtc19oaWdoX2tuZWVzX29uX2FfYmVhY2guXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_8",
+    "filename": "vid_106_Aerial_tracking_camera_shot._A_white_semi-truck_dr_42.mp4",
+    "caption": "Aerial tracking camera shot. A white semi-truck drives on a highway.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMDZfQWVyaWFsX3RyYWNraW5nX2NhbWVyYV9zaG90Ll9BX3doaXRlX3NlbWktdHJ1Y2tfZHJfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMDZfQWVyaWFsX3RyYWNraW5nX2NhbWVyYV9zaG90Ll9BX3doaXRlX3NlbWktdHJ1Y2tfZHJfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_9",
+    "filename": "vid_107_A_woman_is_holding_a_clear_wine_glass_partly_fille_42.mp4",
+    "caption": "A woman is holding a clear wine glass partly filled with a burgundy-colored wine. Facing forward, the woman smiles, she raises the glass with her left hand and takes a small sip.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMDdfQV93b21hbl9pc19ob2xkaW5nX2FfY2xlYXJfd2luZV9nbGFzc19wYXJ0bHlfZmlsbGVfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMDdfQV93b21hbl9pc19ob2xkaW5nX2FfY2xlYXJfd2luZV9nbGFzc19wYXJ0bHlfZmlsbGVfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_10",
+    "filename": "vid_108_A_man_works_on_a_piece_of_wood_in_a_workroom._He_h_42.mp4",
+    "caption": "A man works on a piece of wood in a workroom. He holds a shiny silver chisel with a wooden handle in his right hand.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMDhfQV9tYW5fd29ya3Nfb25fYV9waWVjZV9vZl93b29kX2luX2Ffd29ya3Jvb20uX0hlX2hfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMDhfQV9tYW5fd29ya3Nfb25fYV9waWVjZV9vZl93b29kX2luX2Ffd29ya3Jvb20uX0hlX2hfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_11",
+    "filename": "vid_109_Sliced_green_apples_are_tossed_in_a_brown_liquid.__42.mp4",
+    "caption": "Sliced green apples are tossed in a brown liquid. The apples are cut into thick slices and have shiny green skins with some light-colored speckling. They begin to rotate clockwise, flying out in every direction as the light amber liquid splashes and swirls behind them.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMDlfU2xpY2VkX2dyZWVuX2FwcGxlc19hcmVfdG9zc2VkX2luX2FfYnJvd25fbGlxdWlkLl9fNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMDlfU2xpY2VkX2dyZWVuX2FwcGxlc19hcmVfdG9zc2VkX2luX2FfYnJvd25fbGlxdWlkLl9fNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_12",
+    "filename": "vid_10_A_roulette_wheel_in_a_dimly_lit_room_or_casino_flo_42.mp4",
+    "caption": "A roulette wheel in a dimly lit room or casino floor. In the center of the wheel, there's a small white ball that appears to be spinning rapidly as it moves around the track. The ball spins around the wheel, and the wheel rotates counterclockwise.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMF9BX3JvdWxldHRlX3doZWVsX2luX2FfZGltbHlfbGl0X3Jvb21fb3JfY2FzaW5vX2Zsb180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMF9BX3JvdWxldHRlX3doZWVsX2luX2FfZGltbHlfbGl0X3Jvb21fb3JfY2FzaW5vX2Zsb180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_13",
+    "filename": "vid_110_A_baboon_eats_a_mango._42.mp4",
+    "caption": "A baboon eats a mango.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMTBfQV9iYWJvb25fZWF0c19hX21hbmdvLl80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMTBfQV9iYWJvb25fZWF0c19hX21hbmdvLl80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_14",
+    "filename": "vid_111_A_young_woman_vapes_in_the_living_room._The_woman__42.mp4",
+    "caption": "A young woman vapes in the living room. The woman exhales the thick, billowing smoke.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMTFfQV95b3VuZ193b21hbl92YXBlc19pbl90aGVfbGl2aW5nX3Jvb20uX1RoZV93b21hbl9fNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMTFfQV95b3VuZ193b21hbl92YXBlc19pbl90aGVfbGl2aW5nX3Jvb20uX1RoZV93b21hbl9fNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_15",
+    "filename": "vid_112_A_woman_performing_an_aerial_hoop_trick._The_woman_42.mp4",
+    "caption": "A woman performing an aerial hoop trick. The woman hangs from a black aerial hoop attached to the ceiling by a rope. In the initial frame, she has her legs wrapped around the hoop and her arms extended outward, holding onto the hoop with both hands. Her body is twisted, looking up towards the ceiling, with her shadow cast on the white wall behind her. As the video progresses, she continues to hang from the hoop, her body twisted in various positions, her arms and legs wrapped around the hoop as she performs the aerial trick. The background remains the same, with shadows from the aerial hoop and the woman's body on the white wall.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMTJfQV93b21hbl9wZXJmb3JtaW5nX2FuX2FlcmlhbF9ob29wX3RyaWNrLl9UaGVfd29tYW5fNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMTJfQV93b21hbl9wZXJmb3JtaW5nX2FuX2FlcmlhbF9ob29wX3RyaWNrLl9UaGVfd29tYW5fNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_16",
+    "filename": "vid_113_A_brunette_woman_doing_some_acrobatic_elements_on__42.mp4",
+    "caption": "A brunette woman doing some acrobatic elements on aerial hoop outdoors.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMTNfQV9icnVuZXR0ZV93b21hbl9kb2luZ19zb21lX2Fjcm9iYXRpY19lbGVtZW50c19vbl9fNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMTNfQV9icnVuZXR0ZV93b21hbl9kb2luZ19zb21lX2Fjcm9iYXRpY19lbGVtZW50c19vbl9fNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_17",
+    "filename": "vid_114_A_woman,_with_long_brown_hair_and_wearing_a_black__42.mp4",
+    "caption": "A woman, with long brown hair and wearing a black top and gray bottoms, climbs on a pole with her right leg wrapped around it and her left arm extended upward. The background is a white wall with a mirror reflecting the woman's images.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMTRfQV93b21hbiUyQ193aXRoX2xvbmdfYnJvd25faGFpcl9hbmRfd2VhcmluZ19hX2JsYWNrX180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMTRfQV93b21hbiUyQ193aXRoX2xvbmdfYnJvd25faGFpcl9hbmRfd2VhcmluZ19hX2JsYWNrX180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_18",
+    "filename": "vid_115_A_woman_dancing_in_a_gym._The_woman_is_spinning_ar_42.mp4",
+    "caption": "A woman dancing in a gym. The woman is spinning around repeatedly.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMTVfQV93b21hbl9kYW5jaW5nX2luX2FfZ3ltLl9UaGVfd29tYW5faXNfc3Bpbm5pbmdfYXJfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMTVfQV93b21hbl9kYW5jaW5nX2luX2FfZ3ltLl9UaGVfd29tYW5faXNfc3Bpbm5pbmdfYXJfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_19",
+    "filename": "vid_116_A_group_of_duck_are_walking_in_a_row,_one_after_th_42.mp4",
+    "caption": "A group of duck are walking in a row, one after the other. The background is a Japanese temple.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMTZfQV9ncm91cF9vZl9kdWNrX2FyZV93YWxraW5nX2luX2Ffcm93JTJDX29uZV9hZnRlcl90aF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMTZfQV9ncm91cF9vZl9kdWNrX2FyZV93YWxraW5nX2luX2Ffcm93JTJDX29uZV9hZnRlcl90aF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_20",
+    "filename": "vid_117_Arc_camera_shot._A_young_woman_doing_stretches_on__42.mp4",
+    "caption": "Arc camera shot. A young woman doing stretches on a beach.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMTdfQXJjX2NhbWVyYV9zaG90Ll9BX3lvdW5nX3dvbWFuX2RvaW5nX3N0cmV0Y2hlc19vbl9fNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMTdfQXJjX2NhbWVyYV9zaG90Ll9BX3lvdW5nX3dvbWFuX2RvaW5nX3N0cmV0Y2hlc19vbl9fNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_21",
+    "filename": "vid_118_A_woman_walking_through_a_field_of_beautiful_sunfl_42.mp4",
+    "caption": "A woman walking through a field of beautiful sunflowers. She spins counterclockwise and laughs. A field of shoulder-length sunflowers grow in the background, with trees on the horizon stretching up towards a cloudy sky.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMThfQV93b21hbl93YWxraW5nX3Rocm91Z2hfYV9maWVsZF9vZl9iZWF1dGlmdWxfc3VuZmxfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMThfQV93b21hbl93YWxraW5nX3Rocm91Z2hfYV9maWVsZF9vZl9iZWF1dGlmdWxfc3VuZmxfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_22",
+    "filename": "vid_119_Arc_camera_shot._A_man_playing_the_guitar._42.mp4",
+    "caption": "Arc camera shot. A man playing the guitar.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMTlfQXJjX2NhbWVyYV9zaG90Ll9BX21hbl9wbGF5aW5nX3RoZV9ndWl0YXIuXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMTlfQXJjX2NhbWVyYV9zaG90Ll9BX21hbl9wbGF5aW5nX3RoZV9ndWl0YXIuXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_23",
+    "filename": "vid_11_A_series_of_colorful_balloons_floating_in_mid-air,_42.mp4",
+    "caption": "A series of colorful balloons floating in mid-air, creating a festive and celebratory atmosphere.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMV9BX3Nlcmllc19vZl9jb2xvcmZ1bF9iYWxsb29uc19mbG9hdGluZ19pbl9taWQtYWlyJTJDXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMV9BX3Nlcmllc19vZl9jb2xvcmZ1bF9iYWxsb29uc19mbG9hdGluZ19pbl9taWQtYWlyJTJDXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_24",
+    "filename": "vid_120_A_boy_blowing_out_candles_on_a_birthday_cake._42.mp4",
+    "caption": "A boy blowing out candles on a birthday cake.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMjBfQV9ib3lfYmxvd2luZ19vdXRfY2FuZGxlc19vbl9hX2JpcnRoZGF5X2Nha2UuXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMjBfQV9ib3lfYmxvd2luZ19vdXRfY2FuZGxlc19vbl9hX2JpcnRoZGF5X2Nha2UuXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_25",
+    "filename": "vid_121_A_cheetah_running_in_the_Savannah._42.mp4",
+    "caption": "A cheetah running in the Savannah.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMjFfQV9jaGVldGFoX3J1bm5pbmdfaW5fdGhlX1NhdmFubmFoLl80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMjFfQV9jaGVldGFoX3J1bm5pbmdfaW5fdGhlX1NhdmFubmFoLl80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_26",
+    "filename": "vid_122_Tracking_shot._A_golden_retriever_runs_through_a_g_42.mp4",
+    "caption": "Tracking shot. A golden retriever runs through a grassy park. The dog’s ears flop up and down with each bounding step, and its tongue hangs out to one side. A frisbee flies into view from the left, and the dog leaps into the air to catch it. A group of people in the background claps and cheers.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMjJfVHJhY2tpbmdfc2hvdC5fQV9nb2xkZW5fcmV0cmlldmVyX3J1bnNfdGhyb3VnaF9hX2dfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMjJfVHJhY2tpbmdfc2hvdC5fQV9nb2xkZW5fcmV0cmlldmVyX3J1bnNfdGhyb3VnaF9hX2dfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_27",
+    "filename": "vid_123_A_young_girl_skips_down_a_quiet_suburban_street_li_42.mp4",
+    "caption": "A young girl skips down a quiet suburban street lined with trees. She has light brown skin and long, wavy black hair tied back with a red ribbon. The girl wears a white t-shirt, a denim skirt, and bright yellow sneakers. Her arms swing loosely as she skips",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMjNfQV95b3VuZ19naXJsX3NraXBzX2Rvd25fYV9xdWlldF9zdWJ1cmJhbl9zdHJlZXRfbGlfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMjNfQV95b3VuZ19naXJsX3NraXBzX2Rvd25fYV9xdWlldF9zdWJ1cmJhbl9zdHJlZXRfbGlfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_28",
+    "filename": "vid_124_A_woman_doing_sit-ups_at_a_gym._42.mp4",
+    "caption": "A woman doing sit-ups at a gym.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMjRfQV93b21hbl9kb2luZ19zaXQtdXBzX2F0X2FfZ3ltLl80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMjRfQV93b21hbl9kb2luZ19zaXQtdXBzX2F0X2FfZ3ltLl80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_29",
+    "filename": "vid_125_A_child_riding_his_bicycle_on_a_dirt_path._The_bac_42.mp4",
+    "caption": "A child riding his bicycle on a dirt path. The background is a dirt path lined with trees on either side.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMjVfQV9jaGlsZF9yaWRpbmdfaGlzX2JpY3ljbGVfb25fYV9kaXJ0X3BhdGguX1RoZV9iYWNfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMjVfQV9jaGlsZF9yaWRpbmdfaGlzX2JpY3ljbGVfb25fYV9kaXJ0X3BhdGguX1RoZV9iYWNfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_30",
+    "filename": "vid_126_A_runner_moves_at_full_speed_along_a_suburban_side_42.mp4",
+    "caption": "A runner moves at full speed along a suburban sidewalk. The background is rows of houses and trees passing by in a blur.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMjZfQV9ydW5uZXJfbW92ZXNfYXRfZnVsbF9zcGVlZF9hbG9uZ19hX3N1YnVyYmFuX3NpZGVfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMjZfQV9ydW5uZXJfbW92ZXNfYXRfZnVsbF9zcGVlZF9hbG9uZ19hX3N1YnVyYmFuX3NpZGVfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_31",
+    "filename": "vid_127_A_brown_bear_walks_in_a_grassy_field._42.mp4",
+    "caption": "A brown bear walks in a grassy field.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMjdfQV9icm93bl9iZWFyX3dhbGtzX2luX2FfZ3Jhc3N5X2ZpZWxkLl80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMjdfQV9icm93bl9iZWFyX3dhbGtzX2luX2FfZ3Jhc3N5X2ZpZWxkLl80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_32",
+    "filename": "vid_12_A_young_woman_engaging_in_a_boxing_workout._She_is_42.mp4",
+    "caption": "A young woman engaging in a boxing workout. She is wearing red boxing gloves and a white t-shirt, and has long blonde hair. In the first frame, she is standing in front of a black punching bag, with her right arm extended and her left arm bent, ready to punch the bag. She appears focused and determined. In the second frame, she has moved to the left of the bag and is looking towards the right side of the image. She continues to punch the bag with her right arm extended and her left arm bent. In the final frame, she is still standing to the left of the bag and is looking towards the right side of the image. She is still wearing her red boxing gloves and white t-shirt, and her long blonde hair is visible. The background of  a blue wall with a window on the left and a doorway on the right, as well as two black objects hanging from the ceiling. Throughout the video, the woman is intensely focused on her workout, punching the bag with precision and skill.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xMl9BX3lvdW5nX3dvbWFuX2VuZ2FnaW5nX2luX2FfYm94aW5nX3dvcmtvdXQuX1NoZV9pc180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xMl9BX3lvdW5nX3dvbWFuX2VuZ2FnaW5nX2luX2FfYm94aW5nX3dvcmtvdXQuX1NoZV9pc180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_33",
+    "filename": "vid_13_A_man_performing_a_handstand_on_a_wooden_deck_over_42.mp4",
+    "caption": "A man performing a handstand on a wooden deck overlooking a green lake surrounded by trees.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xM19BX21hbl9wZXJmb3JtaW5nX2FfaGFuZHN0YW5kX29uX2Ffd29vZGVuX2RlY2tfb3Zlcl80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xM19BX21hbl9wZXJmb3JtaW5nX2FfaGFuZHN0YW5kX29uX2Ffd29vZGVuX2RlY2tfb3Zlcl80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_34",
+    "filename": "vid_14_A_young_man_performing_a_cartwheel_on_a_gray_surfa_42.mp4",
+    "caption": "A young man performing a cartwheel on a gray surface. He is dressed in orange pants, a black t-shirt, and white sneakers. As he executes the cartwheel, his right arm is extended upward, and his left arm is bent at the elbow, reaching down to the ground. His right leg is extended behind him, while his left leg is bent at the knee, pointing towards the camera. The background is a featureless gray wall. The mans energy and focus are evident as he completes the cartwheel, showcasing his athleticism and coordination.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xNF9BX3lvdW5nX21hbl9wZXJmb3JtaW5nX2FfY2FydHdoZWVsX29uX2FfZ3JheV9zdXJmYV80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xNF9BX3lvdW5nX21hbl9wZXJmb3JtaW5nX2FfY2FydHdoZWVsX29uX2FfZ3JheV9zdXJmYV80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_35",
+    "filename": "vid_15_A_woman_performing_an_intricate_dance_on_stage,_il_42.mp4",
+    "caption": "A woman performing an intricate dance on stage, illuminated by a single spotlight in the first frame. She is dressed in a long black dress and a wide-brimmed hat, with her arms raised above her head. The woman dance Argentine flamenco dance.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xNV9BX3dvbWFuX3BlcmZvcm1pbmdfYW5faW50cmljYXRlX2RhbmNlX29uX3N0YWdlJTJDX2lsXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xNV9BX3dvbWFuX3BlcmZvcm1pbmdfYW5faW50cmljYXRlX2RhbmNlX29uX3N0YWdlJTJDX2lsXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_36",
+    "filename": "vid_16_A_woman_doing_a_headstand_on_a_beach._42.mp4",
+    "caption": "A woman doing a headstand on a beach.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xNl9BX3dvbWFuX2RvaW5nX2FfaGVhZHN0YW5kX29uX2FfYmVhY2guXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xNl9BX3dvbWFuX2RvaW5nX2FfaGVhZHN0YW5kX29uX2FfYmVhY2guXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_37",
+    "filename": "vid_17_A_woman_engaging_in_a_challenging_workout_routine,_42.mp4",
+    "caption": "A woman engaging in a challenging workout routine, performing pull-ups on green bars.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xN19BX3dvbWFuX2VuZ2FnaW5nX2luX2FfY2hhbGxlbmdpbmdfd29ya291dF9yb3V0aW5lJTJDXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xN19BX3dvbWFuX2VuZ2FnaW5nX2luX2FfY2hhbGxlbmdpbmdfd29ya291dF9yb3V0aW5lJTJDXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_38",
+    "filename": "vid_18_Two_ibexes_navigating_a_rocky_hillside._They_are_w_42.mp4",
+    "caption": "Two ibexes navigating a rocky hillside. They are walking down a steep slope covered in small rocks and dirt. In the background, there are more rocks and some greenery visible through an opening in the rocks.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xOF9Ud29faWJleGVzX25hdmlnYXRpbmdfYV9yb2NreV9oaWxsc2lkZS5fVGhleV9hcmVfd180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xOF9Ud29faWJleGVzX25hdmlnYXRpbmdfYV9yb2NreV9oaWxsc2lkZS5fVGhleV9hcmVfd180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_39",
+    "filename": "vid_19_A_close-up_of_a_runner's_legs_as_they_sprint_throu_42.mp4",
+    "caption": "A close-up of a runner's legs as they sprint through a crowded city street, dodging pedestrians and street vendors, with the sounds of the city all around.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xOV9BX2Nsb3NlLXVwX29mX2FfcnVubmVyJTI3c19sZWdzX2FzX3RoZXlfc3ByaW50X3Rocm91XzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xOV9BX2Nsb3NlLXVwX29mX2FfcnVubmVyJTI3c19sZWdzX2FzX3RoZXlfc3ByaW50X3Rocm91XzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_40",
+    "filename": "vid_1_Young_adult_female_performs_an_air_gymnastic_show__42.mp4",
+    "caption": "Young adult female performs an air gymnastic show on circus arena, holding ring in hand, making twine exercise, spin around",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8xX1lvdW5nX2FkdWx0X2ZlbWFsZV9wZXJmb3Jtc19hbl9haXJfZ3ltbmFzdGljX3Nob3dfXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8xX1lvdW5nX2FkdWx0X2ZlbWFsZV9wZXJmb3Jtc19hbl9haXJfZ3ltbmFzdGljX3Nob3dfXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_41",
+    "filename": "vid_20_Athletic_man_doing_gymnastics_elements_on_horizont_42.mp4",
+    "caption": "Athletic man doing gymnastics elements on horizontal bar in city park. Male sportsmen perform strength exercises outdoors.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8yMF9BdGhsZXRpY19tYW5fZG9pbmdfZ3ltbmFzdGljc19lbGVtZW50c19vbl9ob3Jpem9udF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8yMF9BdGhsZXRpY19tYW5fZG9pbmdfZ3ltbmFzdGljc19lbGVtZW50c19vbl9ob3Jpem9udF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_42",
+    "filename": "vid_21_A_small_dog_playing_with_a_red_ball_on_a_hardwood__42.mp4",
+    "caption": "A small dog playing with a red ball on a hardwood floor.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8yMV9BX3NtYWxsX2RvZ19wbGF5aW5nX3dpdGhfYV9yZWRfYmFsbF9vbl9hX2hhcmR3b29kX180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8yMV9BX3NtYWxsX2RvZ19wbGF5aW5nX3dpdGhfYV9yZWRfYmFsbF9vbl9hX2hhcmR3b29kX180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_43",
+    "filename": "vid_22_A_woman_engaging_in_a_lively_trampoline_workout._T_42.mp4",
+    "caption": "A woman engaging in a lively trampoline workout. The woman jumps and exercises on the trampoline. The background is a room with white walls and a white ceiling, and there are two large windows on the left side of the wall, and a mirror on the right side reflecting the womans image.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8yMl9BX3dvbWFuX2VuZ2FnaW5nX2luX2FfbGl2ZWx5X3RyYW1wb2xpbmVfd29ya291dC5fVF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8yMl9BX3dvbWFuX2VuZ2FnaW5nX2luX2FfbGl2ZWx5X3RyYW1wb2xpbmVfd29ya291dC5fVF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_44",
+    "filename": "vid_23_A_white_kitten_playing_with_a_ball._42.mp4",
+    "caption": "A white kitten playing with a ball.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8yM19BX3doaXRlX2tpdHRlbl9wbGF5aW5nX3dpdGhfYV9iYWxsLl80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8yM19BX3doaXRlX2tpdHRlbl9wbGF5aW5nX3dpdGhfYV9iYWxsLl80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_45",
+    "filename": "vid_24_A_slow-motion_shot_captures_a_runner's_legs_as_the_42.mp4",
+    "caption": "A slow-motion shot captures a runner's legs as they dash through a busy intersection, dodging cars and pedestrians, the city life bustling around them.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8yNF9BX3Nsb3ctbW90aW9uX3Nob3RfY2FwdHVyZXNfYV9ydW5uZXIlMjdzX2xlZ3NfYXNfdGhlXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8yNF9BX3Nsb3ctbW90aW9uX3Nob3RfY2FwdHVyZXNfYV9ydW5uZXIlMjdzX2xlZ3NfYXNfdGhlXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_46",
+    "filename": "vid_25_A_young_girl_playing_basketball_in_a_red_brick_wal_42.mp4",
+    "caption": "A young girl playing basketball in a red brick wall background. The girl, with fair skin and long blonde hair, is wearing a green jacket and has her left arm up to throw the ball. In the mid-frame, the girl is still playing basketball, with her right hand holding the ball in front of her face. The ground is dark gray cement with some patches of grass growing through it. As the video progresses, the girl is seen playing near some grassy areas on the ground.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8yNV9BX3lvdW5nX2dpcmxfcGxheWluZ19iYXNrZXRiYWxsX2luX2FfcmVkX2JyaWNrX3dhbF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8yNV9BX3lvdW5nX2dpcmxfcGxheWluZ19iYXNrZXRiYWxsX2luX2FfcmVkX2JyaWNrX3dhbF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_47",
+    "filename": "vid_26_A_basketball_game_in_progress,_with_two_players_re_42.mp4",
+    "caption": "A basketball game in progress, with two players reaching up to grab the ball as it spills out of the net. The player on the left has his hand outstretched, while the player on the right has both hands raised high. The ball is just above their fingertips, indicating that they are both trying to grab it simultaneously. The background of the image is blurred, but it appears to be a gymnasium or sports arena, with fluorescent lights illuminating the scene. As the video progresses, the players continue to jump and stretch to gain possession of the ball, their movements becoming more urgent and intense. The ball flies back and forth between them, with neither player able to secure it. In the final frame, the ball is still in mid-air, the players hands reaching up to grab it as the video ends.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8yNl9BX2Jhc2tldGJhbGxfZ2FtZV9pbl9wcm9ncmVzcyUyQ193aXRoX3R3b19wbGF5ZXJzX3JlXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8yNl9BX2Jhc2tldGJhbGxfZ2FtZV9pbl9wcm9ncmVzcyUyQ193aXRoX3R3b19wbGF5ZXJzX3JlXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_48",
+    "filename": "vid_27_A_group_of_basketballs_floating_in_mid-air_in_slow_42.mp4",
+    "caption": "A group of basketballs floating in mid-air in slow motion, with a larger ball on the left and two smaller balls on either side in the initial frame. Overall, the video captures the dynamic and energetic movement of basketballs as they float and bounce through space.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8yN19BX2dyb3VwX29mX2Jhc2tldGJhbGxzX2Zsb2F0aW5nX2luX21pZC1haXJfaW5fc2xvd180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8yN19BX2dyb3VwX29mX2Jhc2tldGJhbGxzX2Zsb2F0aW5nX2luX21pZC1haXJfaW5fc2xvd180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_49",
+    "filename": "vid_28_A_dog_playing_with_an_orange_ball_with_blue_stripe_42.mp4",
+    "caption": "A dog playing with an orange ball with blue stripes. The dog picks up the ball and holds it in its mouth, conveying a sense of playfulness and energy. Throughout the video, the dog is seen playing with the ball, capturing the joy and excitement of the moment.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8yOF9BX2RvZ19wbGF5aW5nX3dpdGhfYW5fb3JhbmdlX2JhbGxfd2l0aF9ibHVlX3N0cmlwZV80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8yOF9BX2RvZ19wbGF5aW5nX3dpdGhfYW5fb3JhbmdlX2JhbGxfd2l0aF9ibHVlX3N0cmlwZV80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_50",
+    "filename": "vid_29_A_woman_doing_acrobatic_exercises_on_a_pole_in_the_42.mp4",
+    "caption": "A woman doing acrobatic exercises on a pole in the gym.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8yOV9BX3dvbWFuX2RvaW5nX2Fjcm9iYXRpY19leGVyY2lzZXNfb25fYV9wb2xlX2luX3RoZV80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8yOV9BX3dvbWFuX2RvaW5nX2Fjcm9iYXRpY19leGVyY2lzZXNfb25fYV9wb2xlX2luX3RoZV80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_51",
+    "filename": "vid_2_A_woman_enjoying_the_fun_of_hula_hooping._42.mp4",
+    "caption": "A woman enjoying the fun of hula hooping.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8yX0Ffd29tYW5fZW5qb3lpbmdfdGhlX2Z1bl9vZl9odWxhX2hvb3BpbmcuXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8yX0Ffd29tYW5fZW5qb3lpbmdfdGhlX2Z1bl9vZl9odWxhX2hvb3BpbmcuXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_52",
+    "filename": "vid_30_A_golden_retriever_playing_fetch_on_a_grassy_field_42.mp4",
+    "caption": "A golden retriever playing fetch on a grassy field. The dog is running with a frisbee in its mouth, its fur waving in the wind.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8zMF9BX2dvbGRlbl9yZXRyaWV2ZXJfcGxheWluZ19mZXRjaF9vbl9hX2dyYXNzeV9maWVsZF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8zMF9BX2dvbGRlbl9yZXRyaWV2ZXJfcGxheWluZ19mZXRjaF9vbl9hX2dyYXNzeV9maWVsZF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_53",
+    "filename": "vid_31_A_brightly_colored_ball_spins_rapidly_on_a_flat_su_42.mp4",
+    "caption": "A brightly colored ball spins rapidly on a flat surface, its patterns blurring as it twirls in place.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8zMV9BX2JyaWdodGx5X2NvbG9yZWRfYmFsbF9zcGluc19yYXBpZGx5X29uX2FfZmxhdF9zdV80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8zMV9BX2JyaWdodGx5X2NvbG9yZWRfYmFsbF9zcGluc19yYXBpZGx5X29uX2FfZmxhdF9zdV80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_54",
+    "filename": "vid_32_A_basketball_spins_on_a_player's_fingertip,_mainta_42.mp4",
+    "caption": "A basketball spins on a player's fingertip, maintaining balance while gradually slowing down.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8zMl9BX2Jhc2tldGJhbGxfc3BpbnNfb25fYV9wbGF5ZXIlMjdzX2ZpbmdlcnRpcCUyQ19tYWludGFfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8zMl9BX2Jhc2tldGJhbGxfc3BpbnNfb25fYV9wbGF5ZXIlMjdzX2ZpbmdlcnRpcCUyQ19tYWludGFfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_55",
+    "filename": "vid_33_A_person_jogs_along_a_forest_trail_at_dawn,_their__42.mp4",
+    "caption": "A person jogs along a forest trail at dawn, their feet kicking up dirt with every stride, the sunlight filtering through the trees casting long shadows on the path.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8zM19BX3BlcnNvbl9qb2dzX2Fsb25nX2FfZm9yZXN0X3RyYWlsX2F0X2Rhd24lMkNfdGhlaXJfXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8zM19BX3BlcnNvbl9qb2dzX2Fsb25nX2FfZm9yZXN0X3RyYWlsX2F0X2Rhd24lMkNfdGhlaXJfXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_56",
+    "filename": "vid_34_A_child_jumps_up_and_down_in_place,_their_feet_lea_42.mp4",
+    "caption": "A child jumps up and down in place, their feet leaving the ground briefly before landing again.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8zNF9BX2NoaWxkX2p1bXBzX3VwX2FuZF9kb3duX2luX3BsYWNlJTJDX3RoZWlyX2ZlZXRfbGVhXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8zNF9BX2NoaWxkX2p1bXBzX3VwX2FuZF9kb3duX2luX3BsYWNlJTJDX3RoZWlyX2ZlZXRfbGVhXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_57",
+    "filename": "vid_35_A_person_lifts_one_knee_high_in_a_marching_motion,_42.mp4",
+    "caption": "A person lifts one knee high in a marching motion, then places their foot back down and repeats with the other leg.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8zNV9BX3BlcnNvbl9saWZ0c19vbmVfa25lZV9oaWdoX2luX2FfbWFyY2hpbmdfbW90aW9uJTJDXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8zNV9BX3BlcnNvbl9saWZ0c19vbmVfa25lZV9oaWdoX2luX2FfbWFyY2hpbmdfbW90aW9uJTJDXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_58",
+    "filename": "vid_36_Professional_cyclist_training_indoors_on_a_station_42.mp4",
+    "caption": "Professional cyclist training indoors on a stationary bike trainer.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8zNl9Qcm9mZXNzaW9uYWxfY3ljbGlzdF90cmFpbmluZ19pbmRvb3JzX29uX2Ffc3RhdGlvbl80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8zNl9Qcm9mZXNzaW9uYWxfY3ljbGlzdF90cmFpbmluZ19pbmRvb3JzX29uX2Ffc3RhdGlvbl80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_59",
+    "filename": "vid_37_Young_Adult_Male_Doing_Handstand_on_the_beach._42.mp4",
+    "caption": "Young Adult Male Doing Handstand on the beach.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8zN19Zb3VuZ19BZHVsdF9NYWxlX0RvaW5nX0hhbmRzdGFuZF9vbl90aGVfYmVhY2guXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8zN19Zb3VuZ19BZHVsdF9NYWxlX0RvaW5nX0hhbmRzdGFuZF9vbl90aGVfYmVhY2guXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_60",
+    "filename": "vid_38_A_man_jumping_in_a_pool._42.mp4",
+    "caption": "A man jumping in a pool.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8zOF9BX21hbl9qdW1waW5nX2luX2FfcG9vbC5fNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8zOF9BX21hbl9qdW1waW5nX2luX2FfcG9vbC5fNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_61",
+    "filename": "vid_39_A_man_doing_push-ups_on_a_ledge_overlooking_a_body_42.mp4",
+    "caption": "A man doing push-ups on a ledge overlooking a body of water. The man appears to be doing a push-up, with his head down.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8zOV9BX21hbl9kb2luZ19wdXNoLXVwc19vbl9hX2xlZGdlX292ZXJsb29raW5nX2FfYm9keV80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8zOV9BX21hbl9kb2luZ19wdXNoLXVwc19vbl9hX2xlZGdlX292ZXJsb29raW5nX2FfYm9keV80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_62",
+    "filename": "vid_3_Modern_urban_street_ballet_dancer_performing_acrob_42.mp4",
+    "caption": "Modern urban street ballet dancer performing acrobatics and jumps.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF8zX01vZGVybl91cmJhbl9zdHJlZXRfYmFsbGV0X2RhbmNlcl9wZXJmb3JtaW5nX2Fjcm9iXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF8zX01vZGVybl91cmJhbl9zdHJlZXRfYmFsbGV0X2RhbmNlcl9wZXJmb3JtaW5nX2Fjcm9iXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_63",
+    "filename": "vid_40_A_man_enjoying_a_leisurely_bike_ride_along_a_road__42.mp4",
+    "caption": "A man enjoying a leisurely bike ride along a road next to a body of water during a sunset. As he pedals, he looks down at his front wheel, seemingly focused on his ride. The background features a large body of water, with a gray wall along the left side of the road in the mid-frame caption.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF80MF9BX21hbl9lbmpveWluZ19hX2xlaXN1cmVseV9iaWtlX3JpZGVfYWxvbmdfYV9yb2FkX180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF80MF9BX21hbl9lbmpveWluZ19hX2xlaXN1cmVseV9iaWtlX3JpZGVfYWxvbmdfYV9yb2FkX180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_64",
+    "filename": "vid_41_close_up_shot_of_the_feet_of_a_woman_exercising_on_42.mp4",
+    "caption": "close up shot of the feet of a woman exercising on a cardio fitness machine in a fitness club. As the video progresses, the legs continue to pedal the bike in a smooth, consistent motion.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF80MV9jbG9zZV91cF9zaG90X29mX3RoZV9mZWV0X29mX2Ffd29tYW5fZXhlcmNpc2luZ19vbl80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF80MV9jbG9zZV91cF9zaG90X29mX3RoZV9mZWV0X29mX2Ffd29tYW5fZXhlcmNpc2luZ19vbl80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_65",
+    "filename": "vid_42_A_woman_engaging_in_an_intense_workout_on_a_statio_42.mp4",
+    "caption": "A woman engaging in an intense workout on a stationary bike while monitoring her progress on a screen.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF80Ml9BX3dvbWFuX2VuZ2FnaW5nX2luX2FuX2ludGVuc2Vfd29ya291dF9vbl9hX3N0YXRpb180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF80Ml9BX3dvbWFuX2VuZ2FnaW5nX2luX2FuX2ludGVuc2Vfd29ya291dF9vbl9hX3N0YXRpb180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_66",
+    "filename": "vid_43_A_woman_running_along_a_river_with_a_city_skyline__42.mp4",
+    "caption": "A woman running along a river with a city skyline in the background.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF80M19BX3dvbWFuX3J1bm5pbmdfYWxvbmdfYV9yaXZlcl93aXRoX2FfY2l0eV9za3lsaW5lX180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF80M19BX3dvbWFuX3J1bm5pbmdfYWxvbmdfYV9yaXZlcl93aXRoX2FfY2l0eV9za3lsaW5lX180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_67",
+    "filename": "vid_44_A_skier_walking_up_a_snowy_hill_with_their_skis_on_42.mp4",
+    "caption": "A skier walking up a snowy hill with their skis on their back and ski poles in hand.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF80NF9BX3NraWVyX3dhbGtpbmdfdXBfYV9zbm93eV9oaWxsX3dpdGhfdGhlaXJfc2tpc19vbl80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF80NF9BX3NraWVyX3dhbGtpbmdfdXBfYV9zbm93eV9oaWxsX3dpdGhfdGhlaXJfc2tpc19vbl80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_68",
+    "filename": "vid_45_A_woman_running_through_a_grassy_area,_wearing_a_b_42.mp4",
+    "caption": "A woman running through a grassy area, wearing a black tank top, gray and white leggings, and white sneakers. She is initially running on a dirt path, surrounded by trees with green leaves. As she continues to run, the scenery changes to a park, and her leggings change to a blue and white pattern. She is still running on a dirt path, surrounded by trees and green grass. The video captures her journey as she runs through the grassy area, enjoying the outdoors and the beauty of nature.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF80NV9BX3dvbWFuX3J1bm5pbmdfdGhyb3VnaF9hX2dyYXNzeV9hcmVhJTJDX3dlYXJpbmdfYV9iXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF80NV9BX3dvbWFuX3J1bm5pbmdfdGhyb3VnaF9hX2dyYXNzeV9hcmVhJTJDX3dlYXJpbmdfYV9iXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_69",
+    "filename": "vid_46_A_young_girl_coloring_at_her_desk._42.mp4",
+    "caption": "A young girl coloring at her desk.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF80Nl9BX3lvdW5nX2dpcmxfY29sb3JpbmdfYXRfaGVyX2Rlc2suXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF80Nl9BX3lvdW5nX2dpcmxfY29sb3JpbmdfYXRfaGVyX2Rlc2suXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_70",
+    "filename": "vid_47_Tracking_camera_shot._A_kangaroo_hops_swiftly_acro_42.mp4",
+    "caption": "Tracking camera shot. A kangaroo hops swiftly across an open grassy plain.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF80N19UcmFja2luZ19jYW1lcmFfc2hvdC5fQV9rYW5nYXJvb19ob3BzX3N3aWZ0bHlfYWNyb180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF80N19UcmFja2luZ19jYW1lcmFfc2hvdC5fQV9rYW5nYXJvb19ob3BzX3N3aWZ0bHlfYWNyb180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_71",
+    "filename": "vid_48_A_close-up_of_a_jogger's_feet_as_they_run_along_a__42.mp4",
+    "caption": "A close-up of a jogger's feet as they run along a rocky coastal path, their shoes gripping the uneven surface, with the ocean waves crashing below.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF80OF9BX2Nsb3NlLXVwX29mX2Ffam9nZ2VyJTI3c19mZWV0X2FzX3RoZXlfcnVuX2Fsb25nX2FfXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF80OF9BX2Nsb3NlLXVwX29mX2Ffam9nZ2VyJTI3c19mZWV0X2FzX3RoZXlfcnVuX2Fsb25nX2FfXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_72",
+    "filename": "vid_49_A_person's_hands_as_they_shape_and_mold_clay_on_a__42.mp4",
+    "caption": "A person's hands as they shape and mold clay on a pottery wheel. The hands are covered in brown clay and are visible from the elbows down, with the forearms resting on top of a large yellow pottery wheel.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF80OV9BX3BlcnNvbiUyN3NfaGFuZHNfYXNfdGhleV9zaGFwZV9hbmRfbW9sZF9jbGF5X29uX2FfXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF80OV9BX3BlcnNvbiUyN3NfaGFuZHNfYXNfdGhleV9zaGFwZV9hbmRfbW9sZF9jbGF5X29uX2FfXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_73",
+    "filename": "vid_4_A_woman_doing_a_pirouette_in_an_empty_dance_studio_42.mp4",
+    "caption": "A woman doing a pirouette in an empty dance studio.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF80X0Ffd29tYW5fZG9pbmdfYV9waXJvdWV0dGVfaW5fYW5fZW1wdHlfZGFuY2Vfc3R1ZGlvXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF80X0Ffd29tYW5fZG9pbmdfYV9waXJvdWV0dGVfaW5fYW5fZW1wdHlfZGFuY2Vfc3R1ZGlvXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_74",
+    "filename": "vid_50_A_conveyor_belt_pouring_out_a_large_amount_of_smal_42.mp4",
+    "caption": "A conveyor belt pouring out a large amount of small, brown objects into a pile on the ground. The objects being poured are falling from the conveyor belt in a steady stream, forming a large pile on the ground below. In the background, the sky is bright blue and cloudless, providing a stark contrast to the darker colors of the conveyor belt and the pile of objects.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF81MF9BX2NvbnZleW9yX2JlbHRfcG91cmluZ19vdXRfYV9sYXJnZV9hbW91bnRfb2Zfc21hbF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF81MF9BX2NvbnZleW9yX2JlbHRfcG91cmluZ19vdXRfYV9sYXJnZV9hbW91bnRfb2Zfc21hbF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_75",
+    "filename": "vid_51_A_3d_rendering_of_coins_and_small_objects_floating_42.mp4",
+    "caption": "A 3d rendering of coins and small objects floating against a black background. The coins are gold, silver, bronze, and copper, with various denominations and sizes. Some have a shiny finish, while others are matte or tarnished. The scene is chaotic and dynamic, with the objects seemingly flying around in all directions. As the video progresses, the coins and objects tumble and spin, creating a sense of movement and energy. By the end, the screen is filled with white objects of various shapes and sizes, suggesting that something exciting is happening.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF81MV9BXzNkX3JlbmRlcmluZ19vZl9jb2luc19hbmRfc21hbGxfb2JqZWN0c19mbG9hdGluZ180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF81MV9BXzNkX3JlbmRlcmluZ19vZl9jb2luc19hbmRfc21hbGxfb2JqZWN0c19mbG9hdGluZ180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_76",
+    "filename": "vid_52_A_puppy_runs_through_a_grassy_field._42.mp4",
+    "caption": "A puppy runs through a grassy field.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF81Ml9BX3B1cHB5X3J1bnNfdGhyb3VnaF9hX2dyYXNzeV9maWVsZC5fNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF81Ml9BX3B1cHB5X3J1bnNfdGhyb3VnaF9hX2dyYXNzeV9maWVsZC5fNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_77",
+    "filename": "vid_53_A_cinematic_shot_of_a_person_walking_along_a_quiet_42.mp4",
+    "caption": "A cinematic shot of a person walking along a quiet country road, their feet crunching on the gravel with every step, fields of wheat swaying in the breeze on either side.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF81M19BX2NpbmVtYXRpY19zaG90X29mX2FfcGVyc29uX3dhbGtpbmdfYWxvbmdfYV9xdWlldF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF81M19BX2NpbmVtYXRpY19zaG90X29mX2FfcGVyc29uX3dhbGtpbmdfYWxvbmdfYV9xdWlldF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_78",
+    "filename": "vid_54_A_washing_machine_undergoing_a_full_cycle._It_begi_42.mp4",
+    "caption": "A washing machine undergoing a full cycle. It begins with a top-down view of the machine filled with water and white soap suds, with two black rubber seals on either side of the stainless steel drum. The video progresses to show the drum spinning, with the suds becoming more agitated and the seals moving along with the drums motion.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF81NF9BX3dhc2hpbmdfbWFjaGluZV91bmRlcmdvaW5nX2FfZnVsbF9jeWNsZS5fSXRfYmVnaV80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF81NF9BX3dhc2hpbmdfbWFjaGluZV91bmRlcmdvaW5nX2FfZnVsbF9jeWNsZS5fSXRfYmVnaV80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_79",
+    "filename": "vid_55_Sweet_Cherries_on_Stems_Colliding_and_Splashing_Wa_42.mp4",
+    "caption": "Sweet Cherries on Stems Colliding and Splashing Water Droplets",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF81NV9Td2VldF9DaGVycmllc19vbl9TdGVtc19Db2xsaWRpbmdfYW5kX1NwbGFzaGluZ19XYV80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF81NV9Td2VldF9DaGVycmllc19vbl9TdGVtc19Db2xsaWRpbmdfYW5kX1NwbGFzaGluZ19XYV80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_80",
+    "filename": "vid_56_A_cinematic_shot_of_a_person_jogging_along_a_river_42.mp4",
+    "caption": "A cinematic shot of a person jogging along a riverside path, their feet rhythmically tapping against the ground, the river flowing gently beside them.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF81Nl9BX2NpbmVtYXRpY19zaG90X29mX2FfcGVyc29uX2pvZ2dpbmdfYWxvbmdfYV9yaXZlcl80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF81Nl9BX2NpbmVtYXRpY19zaG90X29mX2FfcGVyc29uX2pvZ2dpbmdfYWxvbmdfYV9yaXZlcl80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_81",
+    "filename": "vid_57_A_green_helicopter_taking_off_from_an_airport_runw_42.mp4",
+    "caption": "A green helicopter taking off from an airport runway.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF81N19BX2dyZWVuX2hlbGljb3B0ZXJfdGFraW5nX29mZl9mcm9tX2FuX2FpcnBvcnRfcnVud180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF81N19BX2dyZWVuX2hlbGljb3B0ZXJfdGFraW5nX29mZl9mcm9tX2FuX2FpcnBvcnRfcnVud180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_82",
+    "filename": "vid_58_A_hand_holding_a_yellow_fidget_spinner._The_hand_i_42.mp4",
+    "caption": "A hand holding a yellow fidget spinner. The hand is fair-skinned and holds the bright yellow fidget spinner with silver bearings. The background is blurred and appears to be trees against a blue sky. The video captures the subtle movements of the hand as it spins the fidget spinner, creating a soothing and mesmerizing visual effect. As the video progresses, the hand continues to hold the fidget spinner, showcasing its smooth and satisfying motion. The background remains blurred, adding a sense of tranquility to the scene. Overall, the video is a calming and enjoyable display of the simple pleasure of fidget spinning.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF81OF9BX2hhbmRfaG9sZGluZ19hX3llbGxvd19maWRnZXRfc3Bpbm5lci5fVGhlX2hhbmRfaV80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF81OF9BX2hhbmRfaG9sZGluZ19hX3llbGxvd19maWRnZXRfc3Bpbm5lci5fVGhlX2hhbmRfaV80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_83",
+    "filename": "vid_59_A_windmill_spinning_in_a_green_field._42.mp4",
+    "caption": "A windmill spinning in a green field.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF81OV9BX3dpbmRtaWxsX3NwaW5uaW5nX2luX2FfZ3JlZW5fZmllbGQuXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF81OV9BX3dpbmRtaWxsX3NwaW5uaW5nX2luX2FfZ3JlZW5fZmllbGQuXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_84",
+    "filename": "vid_5_A_woman_dancing_hip_hop,_street_dancing_in_the_stu_42.mp4",
+    "caption": "A woman dancing hip hop, street dancing in the studio. Slow motion.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF81X0Ffd29tYW5fZGFuY2luZ19oaXBfaG9wJTJDX3N0cmVldF9kYW5jaW5nX2luX3RoZV9zdHVfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF81X0Ffd29tYW5fZGFuY2luZ19oaXBfaG9wJTJDX3N0cmVldF9kYW5jaW5nX2luX3RoZV9zdHVfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_85",
+    "filename": "vid_60_A_bicycle_wheel_spins_forward,_moving_in_a_circula_42.mp4",
+    "caption": "A bicycle wheel spins forward, moving in a circular motion while keeping balance.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF82MF9BX2JpY3ljbGVfd2hlZWxfc3BpbnNfZm9yd2FyZCUyQ19tb3ZpbmdfaW5fYV9jaXJjdWxhXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF82MF9BX2JpY3ljbGVfd2hlZWxfc3BpbnNfZm9yd2FyZCUyQ19tb3ZpbmdfaW5fYV9jaXJjdWxhXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_86",
+    "filename": "vid_61_A_waterwheel_turns_as_water_flows_over_it,_the_pad_42.mp4",
+    "caption": "A waterwheel turns as water flows over it, the paddles rotating consistently.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF82MV9BX3dhdGVyd2hlZWxfdHVybnNfYXNfd2F0ZXJfZmxvd3Nfb3Zlcl9pdCUyQ190aGVfcGFkXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF82MV9BX3dhdGVyd2hlZWxfdHVybnNfYXNfd2F0ZXJfZmxvd3Nfb3Zlcl9pdCUyQ190aGVfcGFkXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_87",
+    "filename": "vid_62_A_close-up_of_a_person's_legs_as_they_walk_through_42.mp4",
+    "caption": "A close-up of a person's legs as they walk through a sun-dappled forest, the light playing off their shoes as they navigate the uneven terrain.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF82Ml9BX2Nsb3NlLXVwX29mX2FfcGVyc29uJTI3c19sZWdzX2FzX3RoZXlfd2Fsa190aHJvdWdoXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF82Ml9BX2Nsb3NlLXVwX29mX2FfcGVyc29uJTI3c19sZWdzX2FzX3RoZXlfd2Fsa190aHJvdWdoXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_88",
+    "filename": "vid_63_A_man_riding_a_mountain_bike_on_a_dirt_trail._42.mp4",
+    "caption": "A man riding a mountain bike on a dirt trail.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF82M19BX21hbl9yaWRpbmdfYV9tb3VudGFpbl9iaWtlX29uX2FfZGlydF90cmFpbC5fNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF82M19BX21hbl9yaWRpbmdfYV9tb3VudGFpbl9iaWtlX29uX2FfZGlydF90cmFpbC5fNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_89",
+    "filename": "vid_64_A_child’s_toy_top_spins_on_a_smooth_surface,_rotat_42.mp4",
+    "caption": "A child’s toy top spins on a smooth surface, rotating without stopping.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF82NF9BX2NoaWxkJUUyJTgwJTk5c190b3lfdG9wX3NwaW5zX29uX2Ffc21vb3RoX3N1cmZhY2UlMkNfcm90YXRfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF82NF9BX2NoaWxkJUUyJTgwJTk5c190b3lfdG9wX3NwaW5zX29uX2Ffc21vb3RoX3N1cmZhY2UlMkNfcm90YXRfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_90",
+    "filename": "vid_65_A_basketball_spins_on_a_player's_fingertip,_showca_42.mp4",
+    "caption": "A basketball spins on a player's fingertip, showcasing balance and skill.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF82NV9BX2Jhc2tldGJhbGxfc3BpbnNfb25fYV9wbGF5ZXIlMjdzX2ZpbmdlcnRpcCUyQ19zaG93Y2FfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF82NV9BX2Jhc2tldGJhbGxfc3BpbnNfb25fYV9wbGF5ZXIlMjdzX2ZpbmdlcnRpcCUyQ19zaG93Y2FfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_91",
+    "filename": "vid_66_A_jellyfish_swimming_in_shallow_water._The_jellyfi_42.mp4",
+    "caption": "A jellyfish swimming in shallow water. The jellyfish has a translucent body with a distinctive pattern of white circles and lines. It appears to be swimming just below the surface of the water, which is dark and murky due to the presence of algae or other aquatic plants.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF82Nl9BX2plbGx5ZmlzaF9zd2ltbWluZ19pbl9zaGFsbG93X3dhdGVyLl9UaGVfamVsbHlmaV80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF82Nl9BX2plbGx5ZmlzaF9zd2ltbWluZ19pbl9zaGFsbG93X3dhdGVyLl9UaGVfamVsbHlmaV80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_92",
+    "filename": "vid_67_A_cinematic_shot_of_a_person_walking_along_a_cobbl_42.mp4",
+    "caption": "A cinematic shot of a person walking along a cobblestone street in a historic town, their feet making a rhythmic tap on the stones as they move.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF82N19BX2NpbmVtYXRpY19zaG90X29mX2FfcGVyc29uX3dhbGtpbmdfYWxvbmdfYV9jb2JibF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF82N19BX2NpbmVtYXRpY19zaG90X29mX2FfcGVyc29uX3dhbGtpbmdfYWxvbmdfYV9jb2JibF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_93",
+    "filename": "vid_68_A_group_of_horses_grazing_in_a_grassy_field_behind_42.mp4",
+    "caption": "A group of horses grazing in a grassy field behind a black wooden fence",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF82OF9BX2dyb3VwX29mX2hvcnNlc19ncmF6aW5nX2luX2FfZ3Jhc3N5X2ZpZWxkX2JlaGluZF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF82OF9BX2dyb3VwX29mX2hvcnNlc19ncmF6aW5nX2luX2FfZ3Jhc3N5X2ZpZWxkX2JlaGluZF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_94",
+    "filename": "vid_69_A_fish_swims_forward_in_a_steady_line,_its_tail_sw_42.mp4",
+    "caption": "A fish swims forward in a steady line, its tail swaying side to side as it propels itself.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF82OV9BX2Zpc2hfc3dpbXNfZm9yd2FyZF9pbl9hX3N0ZWFkeV9saW5lJTJDX2l0c190YWlsX3N3XzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF82OV9BX2Zpc2hfc3dpbXNfZm9yd2FyZF9pbl9hX3N0ZWFkeV9saW5lJTJDX2l0c190YWlsX3N3XzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_95",
+    "filename": "vid_6_A_man_performing_a_backflip._Slow_motion._42.mp4",
+    "caption": "A man performing a backflip. Slow motion.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF82X0FfbWFuX3BlcmZvcm1pbmdfYV9iYWNrZmxpcC5fU2xvd19tb3Rpb24uXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF82X0FfbWFuX3BlcmZvcm1pbmdfYV9iYWNrZmxpcC5fU2xvd19tb3Rpb24uXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_96",
+    "filename": "vid_70_A_penguin_waddles_in_a_straight_line,_shifting_fro_42.mp4",
+    "caption": "A penguin waddles in a straight line, shifting from one foot to the other.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF83MF9BX3Blbmd1aW5fd2FkZGxlc19pbl9hX3N0cmFpZ2h0X2xpbmUlMkNfc2hpZnRpbmdfZnJvXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF83MF9BX3Blbmd1aW5fd2FkZGxlc19pbl9hX3N0cmFpZ2h0X2xpbmUlMkNfc2hpZnRpbmdfZnJvXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_97",
+    "filename": "vid_71_A_man_is_jumping_rope_on_the_sandy_beach,_with_wav_42.mp4",
+    "caption": "A man is jumping rope on the sandy beach, with waves crashing in the background.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF83MV9BX21hbl9pc19qdW1waW5nX3JvcGVfb25fdGhlX3NhbmR5X2JlYWNoJTJDX3dpdGhfd2F2XzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF83MV9BX21hbl9pc19qdW1waW5nX3JvcGVfb25fdGhlX3NhbmR5X2JlYWNoJTJDX3dpdGhfd2F2XzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_98",
+    "filename": "vid_72_A_man_enjoying_water_skiing_on_a_brown_river_with__42.mp4",
+    "caption": "A man enjoying water skiing on a brown river with a green shore and lily pads in the background. Water sprays up from underneath him as he skis across the surface of the lake.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF83Ml9BX21hbl9lbmpveWluZ193YXRlcl9za2lpbmdfb25fYV9icm93bl9yaXZlcl93aXRoX180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF83Ml9BX21hbl9lbmpveWluZ193YXRlcl9za2lpbmdfb25fYV9icm93bl9yaXZlcl93aXRoX180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_99",
+    "filename": "vid_73_A_man_is_swimming_in_a_clear_blue_pool,_enjoying_t_42.mp4",
+    "caption": "A man is swimming in a clear blue pool, enjoying the cool water and the freedom of movement in the pool. As he continues to swim, he glides gracefully through the water, his arms and legs moving in a smooth and coordinated rhythm.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF83M19BX21hbl9pc19zd2ltbWluZ19pbl9hX2NsZWFyX2JsdWVfcG9vbCUyQ19lbmpveWluZ190XzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF83M19BX21hbl9pc19zd2ltbWluZ19pbl9hX2NsZWFyX2JsdWVfcG9vbCUyQ19lbmpveWluZ190XzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_100",
+    "filename": "vid_74_A_kid_running_in_the_mountains_of_Campo_Imperatore_42.mp4",
+    "caption": "A kid running in the mountains of Campo Imperatore, Italy, at the sunset. He is wearing a red polo shirt, blue jeans, and brown shoes. As he runs, he passes by some white rocks on the ground.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF83NF9BX2tpZF9ydW5uaW5nX2luX3RoZV9tb3VudGFpbnNfb2ZfQ2FtcG9fSW1wZXJhdG9yZV80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF83NF9BX2tpZF9ydW5uaW5nX2luX3RoZV9tb3VudGFpbnNfb2ZfQ2FtcG9fSW1wZXJhdG9yZV80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_101",
+    "filename": "vid_75_A_woman_doing_push-up_exercise_on_a_beach_at_sunse_42.mp4",
+    "caption": "A woman doing push-up exercise on a beach at sunset.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF83NV9BX3dvbWFuX2RvaW5nX3B1c2gtdXBfZXhlcmNpc2Vfb25fYV9iZWFjaF9hdF9zdW5zZV80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF83NV9BX3dvbWFuX2RvaW5nX3B1c2gtdXBfZXhlcmNpc2Vfb25fYV9iZWFjaF9hdF9zdW5zZV80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_102",
+    "filename": "vid_76_A_woman_is_shown_running_through_a_field,_with_tal_42.mp4",
+    "caption": "A woman is shown running through a field, with tall grass and wildflowers all around her. She is a fair-skinned woman with long, red hair, wearing a black t-shirt and leggings, and listening to music on her phone. In the background, there are trees and more fields of greenery.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF83Nl9BX3dvbWFuX2lzX3Nob3duX3J1bm5pbmdfdGhyb3VnaF9hX2ZpZWxkJTJDX3dpdGhfdGFsXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF83Nl9BX3dvbWFuX2lzX3Nob3duX3J1bm5pbmdfdGhyb3VnaF9hX2ZpZWxkJTJDX3dpdGhfdGFsXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_103",
+    "filename": "vid_77_A_man_exercising_with_battle_ropes_at_a_gym._42.mp4",
+    "caption": "A man exercising with battle ropes at a gym.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF83N19BX21hbl9leGVyY2lzaW5nX3dpdGhfYmF0dGxlX3JvcGVzX2F0X2FfZ3ltLl80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF83N19BX21hbl9leGVyY2lzaW5nX3dpdGhfYmF0dGxlX3JvcGVzX2F0X2FfZ3ltLl80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_104",
+    "filename": "vid_78_A_person_engaging_in_a_boxing_workout_at_a_gym._42.mp4",
+    "caption": "A person engaging in a boxing workout at a gym.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF83OF9BX3BlcnNvbl9lbmdhZ2luZ19pbl9hX2JveGluZ193b3Jrb3V0X2F0X2FfZ3ltLl80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF83OF9BX3BlcnNvbl9lbmdhZ2luZ19pbl9hX2JveGluZ193b3Jrb3V0X2F0X2FfZ3ltLl80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_105",
+    "filename": "vid_79_A_dark_gray_horse_running_in_an_enclosed_corral._I_42.mp4",
+    "caption": "A dark gray horse running in an enclosed corral. It is running towards the camera.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF83OV9BX2RhcmtfZ3JheV9ob3JzZV9ydW5uaW5nX2luX2FuX2VuY2xvc2VkX2NvcnJhbC5fSV80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF83OV9BX2RhcmtfZ3JheV9ob3JzZV9ydW5uaW5nX2luX2FuX2VuY2xvc2VkX2NvcnJhbC5fSV80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_106",
+    "filename": "vid_7_A_young_woman_practicing_boxing_in_a_gym._42.mp4",
+    "caption": "A young woman practicing boxing in a gym.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF83X0FfeW91bmdfd29tYW5fcHJhY3RpY2luZ19ib3hpbmdfaW5fYV9neW0uXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF83X0FfeW91bmdfd29tYW5fcHJhY3RpY2luZ19ib3hpbmdfaW5fYV9neW0uXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_107",
+    "filename": "vid_80_A_close-up_of_a_runner's_legs_as_they_dash_up_a_fl_42.mp4",
+    "caption": "A close-up of a runner's legs as they dash up a flight of stairs in a city park, their feet hitting each step with precision and power.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF84MF9BX2Nsb3NlLXVwX29mX2FfcnVubmVyJTI3c19sZWdzX2FzX3RoZXlfZGFzaF91cF9hX2ZsXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF84MF9BX2Nsb3NlLXVwX29mX2FfcnVubmVyJTI3c19sZWdzX2FzX3RoZXlfZGFzaF91cF9hX2ZsXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_108",
+    "filename": "vid_81_A_man_is_swimming__in_the_ocean._In_the_background_42.mp4",
+    "caption": "A man is swimming  in the ocean. In the background, the sky is hazy and overexposed, with the sun shining brightly above the horizon. As the video progresses, the man continues to swim, his arms moving rhythmically through the water.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF84MV9BX21hbl9pc19zd2ltbWluZ19faW5fdGhlX29jZWFuLl9Jbl90aGVfYmFja2dyb3VuZF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF84MV9BX21hbl9pc19zd2ltbWluZ19faW5fdGhlX29jZWFuLl9Jbl90aGVfYmFja2dyb3VuZF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_109",
+    "filename": "vid_82_A_herd_of_white_cows_walking_down_a_dirt_path._The_42.mp4",
+    "caption": "A herd of white cows walking down a dirt path. The cows are all facing forward and walking towards the right side of the image. The background is blurry but appears to be a field or pasture.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF84Ml9BX2hlcmRfb2Zfd2hpdGVfY293c193YWxraW5nX2Rvd25fYV9kaXJ0X3BhdGguX1RoZV80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF84Ml9BX2hlcmRfb2Zfd2hpdGVfY293c193YWxraW5nX2Rvd25fYV9kaXJ0X3BhdGguX1RoZV80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_110",
+    "filename": "vid_83_A_person_jogs_along_a_trail_in_a_dense_forest,_the_42.mp4",
+    "caption": "A person jogs along a trail in a dense forest, their legs pumping as they navigate the roots and rocks that dot the path.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF84M19BX3BlcnNvbl9qb2dzX2Fsb25nX2FfdHJhaWxfaW5fYV9kZW5zZV9mb3Jlc3QlMkNfdGhlXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF84M19BX3BlcnNvbl9qb2dzX2Fsb25nX2FfdHJhaWxfaW5fYV9kZW5zZV9mb3Jlc3QlMkNfdGhlXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_111",
+    "filename": "vid_84_A_young_woman_dances_in_the_night_bustle_against_t_42.mp4",
+    "caption": "A young woman dances in the night bustle against the backdrop of a glowing fanfare.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF84NF9BX3lvdW5nX3dvbWFuX2RhbmNlc19pbl90aGVfbmlnaHRfYnVzdGxlX2FnYWluc3RfdF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF84NF9BX3lvdW5nX3dvbWFuX2RhbmNlc19pbl90aGVfbmlnaHRfYnVzdGxlX2FnYWluc3RfdF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_112",
+    "filename": "vid_85_A_man_is_walking_down_the_street_while_pushing_a_t_42.mp4",
+    "caption": "A man is walking down the street while pushing a trash can. The man, wearing a red t-shirt, blue jeans, and brown sandals, pushes the black trash can on wheels.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF84NV9BX21hbl9pc193YWxraW5nX2Rvd25fdGhlX3N0cmVldF93aGlsZV9wdXNoaW5nX2FfdF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF84NV9BX21hbl9pc193YWxraW5nX2Rvd25fdGhlX3N0cmVldF93aGlsZV9wdXNoaW5nX2FfdF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_113",
+    "filename": "vid_86_A_man_enjoying_a_mountain_biking_adventure_through_42.mp4",
+    "caption": "A man enjoying a mountain biking adventure through a forest. He is seen riding a black and white mountain bike down a dirt path, with his back to the camera.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF84Nl9BX21hbl9lbmpveWluZ19hX21vdW50YWluX2Jpa2luZ19hZHZlbnR1cmVfdGhyb3VnaF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF84Nl9BX21hbl9lbmpveWluZ19hX21vdW50YWluX2Jpa2luZ19hZHZlbnR1cmVfdGhyb3VnaF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_114",
+    "filename": "vid_87_Women's_legs_walk_into_the_sea_with_waves._42.mp4",
+    "caption": "Women's legs walk into the sea with waves.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF84N19Xb21lbiUyN3NfbGVnc193YWxrX2ludG9fdGhlX3NlYV93aXRoX3dhdmVzLl80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF84N19Xb21lbiUyN3NfbGVnc193YWxrX2ludG9fdGhlX3NlYV93aXRoX3dhdmVzLl80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_115",
+    "filename": "vid_88_A_young_man_walking_on_a_treadmill._He_is_wearing__42.mp4",
+    "caption": "A young man walking on a treadmill. He is wearing a white tank top and red shorts, and has his hands on the sides of the machine as he runs.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF84OF9BX3lvdW5nX21hbl93YWxraW5nX29uX2FfdHJlYWRtaWxsLl9IZV9pc193ZWFyaW5nX180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF84OF9BX3lvdW5nX21hbl93YWxraW5nX29uX2FfdHJlYWRtaWxsLl9IZV9pc193ZWFyaW5nX180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_116",
+    "filename": "vid_89_Closeup_of_feet_of_a_professional_soccer_player_tr_42.mp4",
+    "caption": "Closeup of feet of a professional soccer player training with ball on stadium field with artificial turf.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF84OV9DbG9zZXVwX29mX2ZlZXRfb2ZfYV9wcm9mZXNzaW9uYWxfc29jY2VyX3BsYXllcl90cl80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF84OV9DbG9zZXVwX29mX2ZlZXRfb2ZfYV9wcm9mZXNzaW9uYWxfc29jY2VyX3BsYXllcl90cl80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_117",
+    "filename": "vid_8_A_close-up_of_a_runner's_legs_as_they_dash_through_42.mp4",
+    "caption": "A close-up of a runner's legs as they dash through a rainstorm, their shoes splashing through puddles as they push forward with determination.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF84X0FfY2xvc2UtdXBfb2ZfYV9ydW5uZXIlMjdzX2xlZ3NfYXNfdGhleV9kYXNoX3Rocm91Z2hfNDIubXA0P2FsdD1tZWRpYQ==",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF84X0FfY2xvc2UtdXBfb2ZfYV9ydW5uZXIlMjdzX2xlZ3NfYXNfdGhleV9kYXNoX3Rocm91Z2hfNDIubXA0P2FsdD1tZWRpYQ=="
+  },
+  {
+    "id": "pair_118",
+    "filename": "vid_90_A_helicopter_flying_over_a_forest._The_helicopter__42.mp4",
+    "caption": "A helicopter flying over a forest. The helicopter is black and has two large rotor blades on top. It is flying low to the ground, with its nose pointing slightly upwards.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF85MF9BX2hlbGljb3B0ZXJfZmx5aW5nX292ZXJfYV9mb3Jlc3QuX1RoZV9oZWxpY29wdGVyX180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF85MF9BX2hlbGljb3B0ZXJfZmx5aW5nX292ZXJfYV9mb3Jlc3QuX1RoZV9oZWxpY29wdGVyX180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_119",
+    "filename": "vid_91_A_close-up_of_a_person's_feet_as_they_walk_through_42.mp4",
+    "caption": "A close-up of a person's feet as they walk through a field of wildflowers, their shoes brushing against the blooms with each step.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF85MV9BX2Nsb3NlLXVwX29mX2FfcGVyc29uJTI3c19mZWV0X2FzX3RoZXlfd2Fsa190aHJvdWdoXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF85MV9BX2Nsb3NlLXVwX29mX2FfcGVyc29uJTI3c19mZWV0X2FzX3RoZXlfd2Fsa190aHJvdWdoXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_120",
+    "filename": "vid_92_A_man_is_playing_basketball,_dribbling_the_ball_an_42.mp4",
+    "caption": "A man is playing basketball, dribbling the ball and making shots.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF85Ml9BX21hbl9pc19wbGF5aW5nX2Jhc2tldGJhbGwlMkNfZHJpYmJsaW5nX3RoZV9iYWxsX2FuXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF85Ml9BX21hbl9pc19wbGF5aW5nX2Jhc2tldGJhbGwlMkNfZHJpYmJsaW5nX3RoZV9iYWxsX2FuXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_121",
+    "filename": "vid_93_A_giraffe_running_through_an_open_field._The_backg_42.mp4",
+    "caption": "A giraffe running through an open field. The background is a bright blue sky with fluffy white clouds.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF85M19BX2dpcmFmZmVfcnVubmluZ190aHJvdWdoX2FuX29wZW5fZmllbGQuX1RoZV9iYWNrZ180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF85M19BX2dpcmFmZmVfcnVubmluZ190aHJvdWdoX2FuX29wZW5fZmllbGQuX1RoZV9iYWNrZ180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_122",
+    "filename": "vid_94_A_person_jogs_along_a_city_waterfront,_their_legs__42.mp4",
+    "caption": "A person jogs along a city waterfront, their legs moving steadily as the sun sets, casting a warm glow over the water and the buildings behind them.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF85NF9BX3BlcnNvbl9qb2dzX2Fsb25nX2FfY2l0eV93YXRlcmZyb250JTJDX3RoZWlyX2xlZ3NfXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF85NF9BX3BlcnNvbl9qb2dzX2Fsb25nX2FfY2l0eV93YXRlcmZyb250JTJDX3RoZWlyX2xlZ3NfXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_123",
+    "filename": "vid_95_A_woman_is_doing_push-ups_on_a_mat_in_the_studio._42.mp4",
+    "caption": "A woman is doing push-ups on a mat in the studio.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF85NV9BX3dvbWFuX2lzX2RvaW5nX3B1c2gtdXBzX29uX2FfbWF0X2luX3RoZV9zdHVkaW8uXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF85NV9BX3dvbWFuX2lzX2RvaW5nX3B1c2gtdXBzX29uX2FfbWF0X2luX3RoZV9zdHVkaW8uXzQyLm1wND9hbHQ9bWVkaWE="
+  },
+  {
+    "id": "pair_124",
+    "filename": "vid_96_Two_dancers_perform_on_a_stage._The_man_stands_beh_42.mp4",
+    "caption": "Two dancers perform on a stage. The man stands behind the woman with his left arm is lifted over his head and the other is stretched to the right. The woman lets go of the man's right hand, swinging her leg to the left and performing a pirouette. She spins four times and ends up facing the man.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF85Nl9Ud29fZGFuY2Vyc19wZXJmb3JtX29uX2Ffc3RhZ2UuX1RoZV9tYW5fc3RhbmRzX2JlaF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF85Nl9Ud29fZGFuY2Vyc19wZXJmb3JtX29uX2Ffc3RhZ2UuX1RoZV9tYW5fc3RhbmRzX2JlaF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_125",
+    "filename": "vid_97_A_woman_drinks_from_a_water_bottle_in_a_forest._Th_42.mp4",
+    "caption": "A woman drinks from a water bottle in a forest. The woman has fair skin and brown hair. She is wearing a black jacket and black and white gloves.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF85N19BX3dvbWFuX2RyaW5rc19mcm9tX2Ffd2F0ZXJfYm90dGxlX2luX2FfZm9yZXN0Ll9UaF80Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF85N19BX3dvbWFuX2RyaW5rc19mcm9tX2Ffd2F0ZXJfYm90dGxlX2luX2FfZm9yZXN0Ll9UaF80Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_126",
+    "filename": "vid_98_Tracking_camera_shot._A_polar_bear_walks_across_a__42.mp4",
+    "caption": "Tracking camera shot. A polar bear walks across a snowy landscape. It looks curiously around as it plods through the snow. The background is a snowy landscape with footprints visible in the snow. Sunlight shines from overhead and casts the bear's shadow on the snow.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF85OF9UcmFja2luZ19jYW1lcmFfc2hvdC5fQV9wb2xhcl9iZWFyX3dhbGtzX2Fjcm9zc19hX180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF85OF9UcmFja2luZ19jYW1lcmFfc2hvdC5fQV9wb2xhcl9iZWFyX3dhbGtzX2Fjcm9zc19hX180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_127",
+    "filename": "vid_99_A_cinematic_shot_of_a_person_walking_through_a_des_42.mp4",
+    "caption": "A cinematic shot of a person walking through a desert at midday, their legs moving slowly but steadily across the sand dunes, with heat waves distorting the distant horizon.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF85OV9BX2NpbmVtYXRpY19zaG90X29mX2FfcGVyc29uX3dhbGtpbmdfdGhyb3VnaF9hX2Rlc180Mi5tcDQ/YWx0PW1lZGlh",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF85OV9BX2NpbmVtYXRpY19zaG90X29mX2FfcGVyc29uX3dhbGtpbmdfdGhyb3VnaF9hX2Rlc180Mi5tcDQ/YWx0PW1lZGlh"
+  },
+  {
+    "id": "pair_128",
+    "filename": "vid_9_A_close-up_view_of_a_spiral_object_with_a_glowing__42.mp4",
+    "caption": "A close-up view of a spiral object with a glowing center. The object appears to be made of metal and has a shiny, reflective surface. . This light creates a series of concentric circles around the objects circumference, which are visible due to the reflection of the light off the metal surface.",
+    "vanilla": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMSUyRnZpZF85X0FfY2xvc2UtdXBfdmlld19vZl9hX3NwaXJhbF9vYmplY3Rfd2l0aF9hX2dsb3dpbmdfXzQyLm1wND9hbHQ9bWVkaWE=",
+    "ours": "aHR0cHM6Ly9maXJlYmFzZXN0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vdjAvYi91c2VyLXN0dWR5LWM1NjdlLmZpcmViYXNlc3RvcmFnZS5hcHAvby9Db2d2aWRlb1glMkZGMiUyRnZpZF85X0FfY2xvc2UtdXBfdmlld19vZl9hX3NwaXJhbF9vYmplY3Rfd2l0aF9hX2dsb3dpbmdfXzQyLm1wND9hbHQ9bWVkaWE="
+  }
+]

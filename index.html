@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Video Preference Survey</title>
+<script src="video_pairs.js"></script>
+<style>
+  body { font-family: system-ui, Arial, sans-serif; max-width: 900px; margin: 40px auto; }
+  h2 { text-align: center; }
+
+  /* Caption */
+  #caption-box {
+    font-size: 1.1em;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 18px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    line-height: 1.4em;
+  }
+
+  /* Progress bar */
+  #progress-container {
+    margin: 15px 0 25px;
+    height: 12px;
+    background: #eee;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  #progress-bar {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, #f44336, #ff9800, #4caf50);
+    border-radius: 8px;
+    transition: width 0.4s ease;
+  }
+  #progress-text {
+    text-align: center;
+    font-weight: 600;
+    font-size: 0.95em;
+    margin-top: 5px;
+  }
+
+  /* Video layout */
+  .video-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 2%;
+    margin-bottom: 10px;
+  }
+  .video-wrapper {
+    width: 49%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  video {
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    object-fit: cover;
+    background: #000;
+  }
+  .video-label {
+    margin-top: 6px;
+    font-weight: 600;
+    color: #444;
+  }
+
+  /* Questions */
+  .question { margin-bottom: 18px; }
+  button {
+    background: #007bff; color: #fff; border: none;
+    padding: 10px 20px; border-radius: 6px; cursor: pointer;
+  }
+  button:hover { background: #0056b3; }
+  .hidden { display: none; }
+  #status { margin-top: 18px; font-weight: 600; }
+  #intro { text-align: center; margin-top: 80px; }
+
+  input[type="text"] {
+    padding: 8px; border-radius: 6px; border: 1px solid #aaa; width: 60%;
+  }
+
+  .question label {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: #f8f9fa;
+    border-radius: 6px;
+    padding: 6px 10px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  .question label:hover {
+    background: #e9ecef;
+    border-color: #007bff;
+  }
+  input[type="radio"] {
+    width: 20px;
+    height: 20px;
+    accent-color: #007bff;
+  }
+
+  .nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+  }
+</style>
+</head>
+
+<body>
+<h2>🎥 Video Preference Survey</h2>
+
+<!-- Intro -->
+<div id="intro">
+  <p>Please enter your <strong>Participant ID</strong> or email address to begin:</p>
+  <input type="text" id="participant-id" placeholder="e.g., annotator_001 or you@example.com" />
+  <br><br>
+  <button id="start-btn">Start Survey ▶</button>
+</div>
+
+<!-- Survey -->
+<div id="survey-section" class="hidden">
+  <!-- Progress -->
+  <div id="progress-container"><div id="progress-bar"></div></div>
+  <div id="progress-text"></div>
+
+  <!-- Caption -->
+  <div id="caption-box"></div>
+  <div class="video-container" id="video-container"></div>
+
+  <!-- Questions -->
+  <form id="question-form">
+    <div class="question">
+      <p><strong>1. Text alignment:</strong> Which video better matches the caption?</p>
+      <label><input type="radio" name="q1" value="Video 1" required> Video 1</label>
+      <label><input type="radio" name="q1" value="Video 2"> Video 2</label>
+    </div>
+
+    <div class="question">
+      <p><strong>2. Quality:</strong> Which video looks more visually appealing?</p>
+      <label><input type="radio" name="q2" value="Video 1" required> Video 1</label>
+      <label><input type="radio" name="q2" value="Video 2"> Video 2</label>
+    </div>
+
+    <div class="question">
+      <p><strong>3. Motion consistency:</strong> Which video has smoother motion?</p>
+      <label><input type="radio" name="q3" value="Video 1" required> Video 1</label>
+      <label><input type="radio" name="q3" value="Video 2"> Video 2</label>
+    </div>
+
+    <div class="nav-buttons">
+      <button type="button" id="back-btn">◀ Back</button>
+      <button type="button" id="next-btn">Next ▶</button>
+    </div>
+    <button type="button" id="submit-btn" class="hidden">Submit All</button>
+  </form>
+
+  <p id="status"></p>
+</div>
+
+<script type="module">
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.1/firebase-app.js";
+  import { getFirestore, collection, addDoc, query, where, getDocs } from "https://www.gstatic.com/firebasejs/11.0.1/firebase-firestore.js";
+
+  // --- Firebase Config ---
+  const firebaseConfig = {
+    apiKey: "AIzaSyARoj2YaS97BD774JyClgbRH93kHE1fTjo",
+    authDomain: "user-study-c567e.firebaseapp.com",
+    projectId: "user-study-c567e",
+    storageBucket: "user-study-c567e.appspot.com",
+    messagingSenderId: "1056070592493",
+    appId: "1:1056070592493:web:f29f40c70926bb5957e9e4",
+    measurementId: "G-YH5Q6E2K9R"
+  };
+
+  const app = initializeApp(firebaseConfig);
+  const db = getFirestore(app);
+
+  // --- DOM References ---
+  const form = document.getElementById("question-form");
+  const nextBtn = document.getElementById("next-btn");
+  const backBtn = document.getElementById("back-btn");
+  const submitBtn = document.getElementById("submit-btn");
+  const videoContainer = document.getElementById("video-container");
+  const captionBox = document.getElementById("caption-box");
+  const progressBar = document.getElementById("progress-bar");
+  const progressText = document.getElementById("progress-text");
+  const status = document.getElementById("status");
+  const intro = document.getElementById("intro");
+  const surveySection = document.getElementById("survey-section");
+  const participantInput = document.getElementById("participant-id");
+  const startBtn = document.getElementById("start-btn");
+
+  // --- State ---
+  let participantId = localStorage.getItem("participantId") || "";
+  let currentIndex = parseInt(localStorage.getItem("currentIndex") || "0");
+  let randomizedPairs = [];
+  let responses = JSON.parse(localStorage.getItem("videoSurveyResponses") || "[]");
+
+  // --- Helpers ---
+  function decodeUrl(maybeBase64) {
+    try { return atob(maybeBase64); } catch { return maybeBase64; }
+  }
+
+  function shuffle(arr) {
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+
+  function updateProgress() {
+    const total = randomizedPairs.length;
+    const progress = ((currentIndex) / total) * 100;
+    progressBar.style.width = `${progress}%`;
+    progressText.textContent = `Progress: ${currentIndex} / ${total} completed`;
+  }
+
+  function initializePairs() {
+    const savedOrder = JSON.parse(localStorage.getItem("videoSurveyOrder"));
+    if (savedOrder) randomizedPairs = savedOrder;
+    else {
+      randomizedPairs = shuffle([...originalPairs]).map(p => ({
+        ...p,
+        flipped: Math.random() > 0.5
+      }));
+      localStorage.setItem("videoSurveyOrder", JSON.stringify(randomizedPairs));
+    }
+  }
+
+  function pauseAllVideos() {
+    document.querySelectorAll("video").forEach(v => v.pause());
+  }
+
+  function loadVideoPair(idx) {
+    const pair = randomizedPairs[idx];
+    const left = pair.flipped ? decodeUrl(pair.v2) : decodeUrl(pair.v1);
+    const right = pair.flipped ? decodeUrl(pair.v1) : decodeUrl(pair.v2);
+
+    captionBox.innerHTML = `<p><strong>Caption:</strong> ${pair.caption}</p>`;
+
+    videoContainer.innerHTML = `
+      <div class="video-wrapper">
+        <video src="${left}" autoplay muted playsinline preload="metadata" controls controlslist="nodownload noremoteplayback"></video>
+        <div class="video-label">Video 1</div>
+      </div>
+      <div class="video-wrapper">
+        <video src="${right}" autoplay muted playsinline preload="metadata" controls controlslist="nodownload noremoteplayback"></video>
+        <div class="video-label">Video 2</div>
+      </div>
+    `;
+
+    form.reset();
+    const saved = responses[idx];
+    if (saved) {
+      for (const [k, v] of Object.entries(saved)) {
+        const el = document.querySelector(`input[name="${k}"][value="${v}"]`);
+        if (el) el.checked = true;
+      }
+    }
+
+    backBtn.classList.toggle("hidden", idx === 0);
+    nextBtn.classList.toggle("hidden", idx >= randomizedPairs.length - 1);
+    submitBtn.classList.toggle("hidden", idx < randomizedPairs.length - 1);
+    updateProgress();
+    status.textContent = `Participant: ${participantId} — Pair ${idx + 1} of ${randomizedPairs.length}`;
+  }
+
+  function saveCurrentResponse() {
+    const data = Object.fromEntries(new FormData(form).entries());
+    data.pair_id = randomizedPairs[currentIndex].id;
+    data.flipped = randomizedPairs[currentIndex].flipped;
+    data.participant = participantId;
+    data.caption = randomizedPairs[currentIndex].caption;
+    responses[currentIndex] = data;
+    localStorage.setItem("videoSurveyResponses", JSON.stringify(responses));
+    localStorage.setItem("currentIndex", currentIndex.toString());
+  }
+
+  function checkAllQuestionsAnswered() {
+    return (
+      form.querySelector('input[name="q1"]:checked') &&
+      form.querySelector('input[name="q2"]:checked') &&
+      form.querySelector('input[name="q3"]:checked')
+    );
+  }
+
+  // --- Navigation ---
+  nextBtn.addEventListener("click", () => {
+    if (!checkAllQuestionsAnswered()) {
+      alert("⚠️ Please answer all three questions before moving to the next video pair.");
+      return;
+    }
+    saveCurrentResponse();
+    pauseAllVideos();
+    currentIndex++;
+    if (currentIndex < randomizedPairs.length) loadVideoPair(currentIndex);
+  });
+
+  backBtn.addEventListener("click", () => {
+    pauseAllVideos();
+    if (currentIndex > 0) {
+      if (!checkAllQuestionsAnswered()) {
+        const proceed = confirm("You haven't answered all questions for this pair. Do you still want to go back?");
+        if (!proceed) return;
+      }
+      saveCurrentResponse();
+      currentIndex--;
+      loadVideoPair(currentIndex);
+    }
+  });
+
+  submitBtn.addEventListener("click", async () => {
+    if (!checkAllQuestionsAnswered()) {
+      alert("⚠️ Please answer all three questions before submitting your responses.");
+      return;
+    }
+    saveCurrentResponse();
+    status.textContent = "Uploading responses...";
+    try {
+      await addDoc(collection(db, "responses"), {
+        participant: participantId,
+        timestamp: new Date().toISOString(),
+        responses
+      });
+      status.textContent = "✅ Responses uploaded successfully!";
+      localStorage.clear();
+      form.classList.add("hidden");
+      videoContainer.classList.add("hidden");
+      captionBox.classList.add("hidden");
+    } catch (e) {
+      console.error(e);
+      status.textContent = "❌ Failed to upload responses.";
+    }
+  });
+
+  // --- Check for duplicate participants ---
+  startBtn.addEventListener("click", async () => {
+    const val = participantInput.value.trim();
+    if (!val) {
+      alert("Please enter your participant ID or email.");
+      return;
+    }
+
+    const qSnap = await getDocs(query(collection(db, "responses"), where("participant", "==", val)));
+    if (!qSnap.empty) {
+      alert("⚠️ A submission from this participant already exists.\nPlease enter a different name or ID.");
+      return;
+    }
+
+    participantId = val;
+    localStorage.setItem("participantId", participantId);
+    intro.classList.add("hidden");
+    surveySection.classList.remove("hidden");
+    initializePairs();
+    loadVideoPair(currentIndex);
+  });
+
+  // --- Resume previous state ---
+  window.addEventListener("load", () => {
+    if (participantId) {
+      if (confirm("Resume where you left off?")) {
+        participantInput.value = participantId;
+        intro.classList.add("hidden");
+        surveySection.classList.remove("hidden");
+        initializePairs();
+        loadVideoPair(currentIndex);
+      } else {
+        localStorage.clear();
+        location.reload();
+      }
+    }
+  });
+</script>
+</body>
+</html>
